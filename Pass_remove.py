@@ -42,10 +42,10 @@ def process_pdfs_in_folder(input_folder, output_folder, password):
         remove_password(input_file, output_folder, password)
 
 # Folder containing the encrypted PDF files
-input_folder = r"C:\Users\Mansi Sareen\Documents\MyProjects\The Big Catch"
+input_folder = r"C:\Users\Mansi Sareen\Documents\MyProjects\New folder"
 
 # Folder to save the decrypted PDFs
-output_folder = r"C:\Users\Mansi Sareen\Documents\MyProjects\Decrypted Files\The Big Catch"
+output_folder = r"C:\Users\Mansi Sareen\Documents\MyProjects\Decrypted Files"
 
 # Password for the PDF files
 password = "BBDPJ7234A"
